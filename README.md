@@ -1,6 +1,6 @@
 # TryZone
 
-After learning php whta better way to test myself than to make a project!
+After learning php what better way to test myself than to make a project!
 
 Initially I aimed to create a simple accounts handler.
 So the prime focus of this project is backend, including features such as:
