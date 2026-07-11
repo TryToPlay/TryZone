@@ -21,6 +21,6 @@ So the prime focus of this project is backend, including features such as:
 
 The site allows one account per email address and also checks for unique usernames.
 
-Since it was a small project with a goal of getting myself familiar with php, the databse was hosted locally and hence needs to be imported with the trzone.sql file provided in import_database_rrom_here folder.
+Since it was a small project with a goal of getting myself familiar with php, the database was hosted locally and hence needs to be imported with the tryzone.sql file provided in import_database_from_here folder.
 
- I do plan to return to this project to add messaging in future, until then have fun with the provided source code.
+I do plan to return to this project to add messaging in future, until then have fun with the provided source code.
