@@ -11,7 +11,7 @@ So the prime focus of this project is backend, including features such as:
 
 -Account log in
 
--Edit details like username, pfp and bio
+-Account modification (username, pfp and bio)
 
 -Account deletion
 
